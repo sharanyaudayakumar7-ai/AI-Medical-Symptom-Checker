@@ -56,6 +56,14 @@ The system uses a symptom dataset to identify the most likely diseases and integ
 ## Example Input
 <img width="318" height="901" alt="Image" src="https://github.com/user-attachments/assets/a5af1611-ef23-479f-a7e1-0da5c3d35f24" />
 
+
+
+
+
+
+
+
+
 <img width="331" height="872" alt="Image" src="https://github.com/user-attachments/assets/47fe337d-b41d-4579-87ec-f575cc137b97" />
 
 
